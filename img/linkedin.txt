@@ -16,9 +16,9 @@ My Capabilities:
 Applied academic experience with data mining and analytic methods such as Regression Models, Logistic Regression, Predictive Modeling, optimization models.
 
 Skills: 
-• Database Design: Oracle SQL, MySQL, MS SQL
-• Programming Languages: Python, R, SQL
-• Tools: SAP BOBJ, SAP Lumira, SAP MS Analysis, Tableau, MS Excel
+â€¢ Database Design: Oracle SQL, MySQL, MS SQL
+â€¢ Programming Languages: Python, R, SQL
+â€¢ Tools: SAP BOBJ, SAP Lumira, SAP MS Analysis, Tableau, MS Excel
 
 You may reach me at: axs170025@utdallas.edu
 
@@ -26,22 +26,22 @@ You may reach me at: axs170025@utdallas.edu
 INTERNSHIP
 
 
-As part of the Data Solution Architect team, I led the solution process of 4 vendor’s business requests till deployment within 2 months. 
+As part of the Data Solution Architect team, I led the solution process of 4 vendorâ€™s business requests till deployment within 2 months. 
 Collaborated with project managers, data architects, developers and testers to coordinate execution of end to end solutions for each. 
-•	Analyzed data for recovering overpayment of insurance claims in order to create reporting solutions (in accordance to HIPAA). 
-•	Designed the technical scope for the change requests and mapped the data sources to the target extracts using AnalytixDS.... See more
+â€¢	Analyzed data for recovering overpayment of insurance claims in order to create reporting solutions (in accordance to HIPAA). 
+â€¢	Designed the technical scope for the change requests and mapped the data sources to the target extracts using AnalytixDS.... See more
 
 ----
 Business Technology Analyst
 
 Conceptualized and executed Customer Success operations to solve business challenges faced by Betaout. Worked closely with Co-founders of eCommerce firms to provide on-boarding acceleration, and thus, improved profitability.
 
-•	Owned five ecommerce enterprise clients’ implementations. Garnering the second highest revenue in a Customer Success team of ten. Whilst contributing by developing expertise in client’s analytics needs.
-•	Provided quantitative insights to CEO and CTO through dashboards using Tableau; and Excel reports to analyse KPIs and account health. 
-•	Led a team of four associates for data wrangling operations for all high value clients with critical data. 
-•	Designed information flow by mapping source to target in coordination with over 35 clients in 6 months.
-•	Well-adept with knowledge of product’s APIs, I decreased time-to-integration to 70% by streamlining customer on-boarding.
-•	Redefined implementation processes (credited for 17% rise in retention rate of clients). 
+â€¢	Owned five ecommerce enterprise clientsâ€™ implementations. Garnering the second highest revenue in a Customer Success team of ten. Whilst contributing by developing expertise in clientâ€™s analytics needs.
+â€¢	Provided quantitative insights to CEO and CTO through dashboards using Tableau; and Excel reports to analyse KPIs and account health. 
+â€¢	Led a team of four associates for data wrangling operations for all high value clients with critical data. 
+â€¢	Designed information flow by mapping source to target in coordination with over 35 clients in 6 months.
+â€¢	Well-adept with knowledge of productâ€™s APIs, I decreased time-to-integration to 70% by streamlining customer on-boarding.
+â€¢	Redefined implementation processes (credited for 17% rise in retention rate of clients). 
 
 Skills: SQL, MySQL, Tableau, Microsoft Excel, Data Analytics, Ecommerce Marketing, Account Management, Data Wrangling, API mapping, JSON, Kibana, Elasticsearch, Client On-boarding, Adhoc Testing, Quality Assurance, Information Assurance 
 
@@ -51,9 +51,9 @@ SQL Analyst
 
 Responsible for minor development projects for a prominent Finnish Bank in mainframe and DB2 technology.
 
-•	Successfully implemented system wide (50 programs in 21 modules) alteration during the client’s merger with another bank. 
-•	Individually documented requirements and profiled data by performing data analysis using intricate SQL queries. 
-•	Performed root cause analysis of production code bugs in COBOL and JCL to work on resolution. Worked cross-functionally to support teams in resolving identified issues. 
+â€¢	Successfully implemented system wide (50 programs in 21 modules) alteration during the clientâ€™s merger with another bank. 
+â€¢	Individually documented requirements and profiled data by performing data analysis using intricate SQL queries. 
+â€¢	Performed root cause analysis of production code bugs in COBOL and JCL to work on resolution. Worked cross-functionally to support teams in resolving identified issues. 
 
 Skills: SQL, DB2, OLTP, Business Analytics, Statistical Analysis, Database Management, Data Analysis, Data Mining, SDLC, Business Analytics, Client Handling, Requirement Elicitation, BRD and FAD documentation
 
