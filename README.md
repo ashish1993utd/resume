@@ -1,7 +1,7 @@
 [![Language](https://img.shields.io/badge/Made%20with-HTML-blue.svg)](#technologies-and-tools)
 ![HitCount](http://hits.dwyl.io/ashish1993utd/resume.svg)
 
-# Resume on Webs
+# Resume on Websi
 
 Ashish Sharma's Resume
 
